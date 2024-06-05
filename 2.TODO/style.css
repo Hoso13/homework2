@@ -1,0 +1,17 @@
+body {
+	display: flex;
+	height: 100dvh;
+	margin: 0;
+	justify-content: center;
+	gap: 50px;
+	align-items: center;
+}
+
+ul {
+	padding: 0;
+}
+
+.list-item {
+	display: flex;
+	gap: 20px;
+}
